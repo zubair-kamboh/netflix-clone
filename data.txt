@@ -1,6 +1,0 @@
-api key : https://api.themoviedb.org/3/movie/550?api_key=3ecf6795e7d0870d49802f58b5da54a0
-fetchUpcomming: https://api.themoviedb.org/3/movie/upcoming?api_key=3ecf6795e7d0870d49802f58b5da54a0&language=en-US&page=1
-fetchTopRated: https://api.themoviedb.org/3/movie/top_rated?api_key=3ecf6795e7d0870d49802f58b5da54a0&language=en-US&page=1
-fetchPopular: https://api.themoviedb.org/3/movie/popular?api_key=3ecf6795e7d0870d49802f58b5da54a0&language=en-US&page=1
-fetchNowPlaying: https://api.themoviedb.org/3/movie/now_playing?api_key=3ecf6795e7d0870d49802f58b5da54a0&language=en-US&page=1
-fetchLatest: https://api.themoviedb.org/3/movie/latest?api_key=3ecf6795e7d0870d49802f58b5da54a0&language=en-US
